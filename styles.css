@@ -1,0 +1,59 @@
+body {
+    background-color: #000000;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100vw;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+}
+
+section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 70vh;
+}
+
+article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+p {
+    color: white;
+}
+
+.midnight-blue {
+    background-color: #101720;
+}
+
+.deep-navy-blue {
+    background-color: #011222;
+}
+
+.charcoal-gray {
+    background-color: #171717;
+}
+
+.rich-black {
+    background-color: #020D19;
+}
+
+.oil-black {
+    background-color: #0C0C0C;
+}
+
+.dark-slate-gray {
+    background-color: #0D1717;
+}
+
+.obsidian {
+    background-color: #0B1215;
+}
